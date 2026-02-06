@@ -126,7 +126,8 @@ This approach ensures that no manual intervention is required after instance lau
 
 As part of the submission, the following screenshots are included:
 
-* Terraform plan output<img width="802" height="558" alt="Screenshot 2026-02-06 134908" src="https://github.com/user-attachments/assets/3de7faa9-2776-45e0-a6c0-b7b81e06dc45" />
+* Terraform plan output
+  <img width="802" height="558" alt="Screenshot 2026-02-06 134908" src="https://github.com/user-attachments/assets/3de7faa9-2776-45e0-a6c0-b7b81e06dc45" />
 
 * Terraform apply output<img width="1562" height="513" alt="Screenshot 2026-02-06 135120" src="https://github.com/user-attachments/assets/230f1158-d8a9-49d8-a13a-591e5daee24d" />
 
