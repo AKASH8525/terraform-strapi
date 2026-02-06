@@ -148,7 +148,8 @@ Additionally:
 
 * Application Load Balancer creation was restricted due to AWS account-level limitations commonly applied to new accounts.
 * These restrictions are external to the Terraform configuration and do not indicate a design or implementation issue.
-<img width="1658" height="280" alt="Screenshot 2026-02-06 135224" src="https://github.com/user-attachments/assets/30816b4b-8f25-465c-a114-b43b50aee9af" />
+
+<img width="1802" height="789" alt="Screenshot 2026-02-05 212936" src="https://github.com/user-attachments/assets/f655b802-e0ff-4f19-8d1b-a28252a7d403" />
 
 ---
 
